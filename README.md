@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omishagupta
 - 👀 I’m interested in everything that involves cloud
 - 🌱 I’m currently learning CDK/CDK8s/Typescript
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me on omishagupta95@gmail.com
 
 <!---
