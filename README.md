@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omishagupta
-- 👀 I’m interested in everything that involves cloud
+- 👀 I’m interested in everything that involves cloud and AI
 - 🌱 I’m currently learning CDK/CDK8s/Typescript
 - 📫 You can reach out to me on omishagupta95@gmail.com
 
